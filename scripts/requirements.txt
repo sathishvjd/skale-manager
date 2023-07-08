@@ -1,1 +1,2 @@
 slither-analyzer==0.8.3
+crytic-compile>=0.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
