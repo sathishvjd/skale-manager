@@ -45,12 +45,12 @@
     "@openzeppelin/contracts-upgradeable": "^4.6.0",
     "@openzeppelin/hardhat-upgrades": "^1.13.0",
     "@skalenetwork/skale-manager-interfaces": "1.0.0-develop.7",
-    "@skalenetwork/upgrade-tools": "1.0.0-develop.11",
+    "@skalenetwork/upgrade-tools": "1.0.0",
     "@typechain/hardhat": "^4.0.0",
     "dotenv": "^16.0.0",
     "ethereumjs-util": "^7.1.5",
-    "ethers": "^5.5.3",
-    "hardhat": "^2.8.3"
+    "ethers": "^6.0.0",
+    "hardhat": "^2.8.4"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-etherscan": "^3.0.0",
